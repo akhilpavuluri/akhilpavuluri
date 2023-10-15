@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.new.siemens.com/siemens/assets/api/uuid:79f8d98b-c962-4f74-8469-1649f2304fda/width:2000/quality:high/aibackgroundpicolo.gif)](https://rishavchanda.io)
+[![MasterHead](https://assets.new.siemens.com/siemens/assets/api/uuid:79f8d98b-c962-4f74-8469-1649f2304fda/width:2000/quality:high/aibackgroundpicolo.gif)]
 <h1 align="center">Hi 👋, I'm AKHIL PAVULURI</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
