@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Developer-GIF.gif)
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝕯𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝕻𝚕𝚊𝚢𝚐𝚛𝚘𝚞𝚗𝚍</h1>
 <h3 align="center">𝓦𝓱𝓮𝓻𝓮 𝓐𝓘 𝓬𝓸𝓶𝓮𝓼 𝓽𝓸 𝓹𝓵𝓪𝔂</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Git-gif-2.1.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Coder%20Gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilpavuluri&label=Outlook&color=000000&style=plastic" alt="akhilpavuluri" /> </p>
 
