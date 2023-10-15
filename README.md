@@ -17,9 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akhilpavuluri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilpavuluri_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilinnovates/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilinnovates/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21382374/akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21382374/akhil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/akhilpavuluris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/akhilpavuluris" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/akhilpavuluris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akhilpavuluris/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@akhil2040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@akhil2040" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/jryhuEf6rc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jryhuEf6rc" height="30" width="40" /></a>
 <a href="https://instagram.com/akhil.pavuluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil.pavuluri" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/pavuluriakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pavuluriakhil" height="30" width="40" /></a>
+<a href="https://twitter.com/akhilpavuluri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilpavuluri_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
