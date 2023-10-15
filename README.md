@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilpavuluri&label=Outlook&color=000000&style=plastic" alt="akhilpavuluri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilpavuluri" alt="akhilpavuluri" /></a> </p>
+- 🤖 I’m currently working on **𝖠𝗋𝗍𝗂𝖿𝗂𝖼𝗂𝖺𝗅 𝖨𝗇𝗍𝖾𝗅𝗅𝗂𝗀𝖾𝗇𝖼𝖾**
 
--  🤖 I’m currently working on 𝖠𝗋𝗍𝗂𝖿𝗂𝖼𝗂𝖺𝗅 𝖨𝗇𝗍𝖾𝗅𝗅𝗂𝗀𝖾𝗇𝖼𝖾
+- 👨‍💻 I’m currently learning **𝖭𝖺𝗍𝗎𝗋𝖺𝗅 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝗉𝗋𝗈𝖼𝖾𝗌𝗌𝗂𝗇𝗀 (𝖭𝖫𝖯)**
 
--  👨‍💻 I’m currently learning 𝖭𝖺𝗍𝗎𝗋𝖺𝗅 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝗉𝗋𝗈𝖼𝖾𝗌𝗌𝗂𝗇𝗀 (𝖭𝖫𝖯)
+- 💬 Ask me about **Artificial Intelligence**
 
--  💬 Ask me about Artificial Intelligence
+- 📫 How to reach me **akhilpavuluris@gmail.com**
 
-- 📧 How to reach me akhilpavuluris@gmail.com
-
-- ✨ Fun fact 𝑻𝒉𝒆 𝒇𝒊𝒓𝒔𝒕 "𝒄𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒃𝒖𝒈” 𝒘𝒂𝒔 𝒂𝒏 𝒂𝒄𝒕𝒖𝒂𝒍 𝒃𝒖𝒈
+- ✨ Fun fact **ₜₕₑ fᵢᵣₛₜ “cₒₘₚᵤₜₑᵣ bᵤg” wₐₛ ₐₙ ₐcₜᵤₐₗ bᵤg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
