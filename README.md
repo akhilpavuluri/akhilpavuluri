@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<h3 align="center">Applications, Programming Languages and it's libraries </h3>
+<h3 align="center">Expertise Overview </h3>
 <br clear="both">
 
 <div align="center">
