@@ -1,9 +1,7 @@
-![MasterHead](https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Developer-GIF.gif)
+![MasterHead](https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Linkedin%20Banner%20main.png)
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝕯𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝕻𝚕𝚊𝚢𝚐𝚛𝚘𝚞𝚗𝚍</h1>
-<h3 align="center">𝓦𝓱𝓮𝓻𝓮 𝓐𝓘 𝓬𝓸𝓶𝓮𝓼 𝓽𝓸 𝓹𝓵𝓪𝔂</h3>
-<img align="right" alt="Coding" width="350" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilpavuluri&label=Outlook&color=000000&style=plastic" alt="akhilpavuluri" /> </p>
+<h3 align="center">𝓦𝓱𝓮𝓻𝓮 𝓐𝓘 𝓬𝓸𝓶𝓮𝓼 𝓽𝓸 𝓹𝓵𝓪𝔂</h3><br>
+<img align="right" alt="Coding" width="350" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Logo.png">
 
 -  🤖 I’m currently working on 𝖠𝗋𝗍𝗂𝖿𝗂𝖼𝗂𝖺𝗅 𝖨𝗇𝗍𝖾𝗅𝗅𝗂𝗀𝖾𝗇𝖼𝖾
 
@@ -13,21 +11,15 @@
 
 -  📧 How to reach me akhilpavuluris@gmail.com
 
+-  🌐 Explore me on www.akhilpavuluri.com
+
 -  ✨ Fun fact 𝑻𝒉𝒆 𝒇𝒊𝒓𝒔𝒕 "𝒄𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒃𝒖𝒈” 𝒘𝒂𝒔 𝒂𝒏 𝒂𝒄𝒕𝒖𝒂𝒍 𝒃𝒖𝒈
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilinnovates/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilinnovates/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21382374/akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21382374/akhil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/akhilpavuluris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/akhilpavuluris" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akhilpavuluris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akhilpavuluris/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/jryhuEf6rc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jryhuEf6rc" height="30" width="40" /></a>
-<a href="https://instagram.com/akhil.pavuluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil.pavuluri" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pavuluriakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pavuluriakhil" height="30" width="40" /></a>
-<a href="https://twitter.com/akhilpavuluri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilpavuluri_" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
 <br clear="both">
 
 <div align="center">
@@ -95,7 +87,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-<p><img align="left" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilpavuluri&show_icons=true&theme=dark&locale=en&layout=compact" alt="akhilpavuluri" /></p>
-<img align="centre" alt="Coding" width="250" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/AI.gif">
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilpavuluri&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akhilpavuluri&label=Outlook&color=000000&style=plastic" alt="akhilpavuluri" /> </p>
+
+<h3 align="center">Connect with me:</h3>
+<br>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilinnovates/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilinnovates/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21382374/akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21382374/akhil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/akhilpavuluris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/akhilpavuluris" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/akhilpavuluris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akhilpavuluris/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/jryhuEf6rc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jryhuEf6rc" height="30" width="40" /></a>
+<a href="https://instagram.com/akhil.pavuluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil.pavuluri" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/pavuluriakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pavuluriakhil" height="30" width="40" /></a>
+<a href="https://twitter.com/akhilpavuluri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilpavuluri_" height="30" width="40" /></a>
+</p>
+
 
 
