@@ -20,7 +20,7 @@
 <br>
 
 <h3 align="center">Expertise Overview </h3>
-<br clear="both">
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -98,7 +98,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akhilpavuluri&label=Outlook&color=000000&style=plastic" alt="akhilpavuluri" /> </p>
 
 <h3 align="center">Discover More On</h3>
-<br>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilinnovates/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilinnovates/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21382374/akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21382374/akhil" height="30" width="40" /></a>
