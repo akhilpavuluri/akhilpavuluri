@@ -96,4 +96,4 @@
 <p><img align="left" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilpavuluri&show_icons=true&theme=dark&locale=en&layout=compact" alt="akhilpavuluri" /></p>
 <img align="centre" alt="Coding" width="250" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/AI.gif">
 
-<img src="https://raw.githubusercontent.com/akhilpavuluri/akhilpavuluri/snake.svg" alt="Snake animation" />
+
