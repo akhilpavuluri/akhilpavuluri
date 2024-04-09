@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Linkedin%20Banner%20main.png)
+![MasterHead](https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Linkedin%20Banner.png)
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝕯𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝕻𝚕𝚊𝚢𝚐𝚛𝚘𝚞𝚗𝚍</h1>
 <h3 align="center">𝓦𝓱𝓮𝓻𝓮 𝓐𝓘 𝓬𝓸𝓶𝓮𝓼 𝓽𝓸 𝓹𝓵𝓪𝔂</h3><br>
 <img align="right" alt="Coding" width="350" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/Logo.png">
